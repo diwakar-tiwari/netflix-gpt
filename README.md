@@ -34,7 +34,11 @@
 - Build Movie card
 - TMDB Image CDN Url
 - Use tailwind to make browse page more better
-- Created a custom hook for usePopularMovies
+- usePopularMovies, useTopRatedMovies, useUpcomingMovies - Custom Hooks
+- GPT Search feature
+- GPT Search Page
+- GPT Search Bar
+- Multi-language feature
 
 
 # Features
